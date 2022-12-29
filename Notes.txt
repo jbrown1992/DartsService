@@ -1,0 +1,8 @@
+﻿Darts app
+
+1) 501 tracker
+
+
+2) Round the clock
+
+3) Save everything to db
